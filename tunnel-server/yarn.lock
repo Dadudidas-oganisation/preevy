@@ -536,9 +536,9 @@
     fast-json-stringify "^5.7.0"
 
 "@fastify/request-context@^5.0.0":
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/@fastify/request-context/-/request-context-5.0.0.tgz#f821c98ff5a930da9d26b2dce831420d86f5db14"
-  integrity sha512-HEJoAF5+28PO9kcX+A7vFY0vv45k4Fllzp7rzDyaZ9Lcz99YQmMsXVS1GWkhy+24jv5SWNyyZiiJklSa6BiFPA==
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@fastify/request-context/-/request-context-5.1.0.tgz#e1fdc103767af977485f19501c117eb59a49d30a"
+  integrity sha512-PM7wrLJOEylVDpxabOFLaYsdAiaa0lpDUcP2HMFJ1JzgiWuC6k4r3duf6Pm9YLnzlGmT+Yp4tkQjqsu7V/pSOA==
   dependencies:
     fastify-plugin "^4.0.0"
 
@@ -1032,9 +1032,9 @@
     form-data "^4.0.0"
 
 "@types/node@*", "@types/node@18", "@types/node@^18.11.18":
-  version "18.19.4"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.19.4.tgz#89672e84f11a2c19543d694dac00ab8d7bc20ddb"
-  integrity sha512-xNzlUhzoHotIsnFoXmJB+yWmBvFZgKCI9TtPIEdYIMM1KWfwuY8zh7wvc1u1OAXlC7dlf6mZVx/s+Y5KfFz19A==
+  version "18.19.6"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.19.6.tgz#537beece2c8ad4d9abdaa3b0f428e601eb57dac8"
+  integrity sha512-X36s5CXMrrJOs2lQCdDF68apW4Rfx9ixYMawlepwmE4Anezv/AV2LSpKD1Ub8DAc+urp5bk0BGZ6NtmBitfnsg==
   dependencies:
     undici-types "~5.26.4"
 
